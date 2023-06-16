@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-         <loc>https://docs.horizon.com/</loc>
+         <loc>https://harukumo.github.io/Horizon-Documentation/</loc>
          <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.horizon.com/about/</loc>
+         <loc>https://harukumo.github.io/Horizon-Documentation/about/</loc>
          <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.horizon.com/roadmap/</loc>
+         <loc>https://harukumo.github.io/Horizon-Documentation/roadmap/</loc>
          <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://docs.horizon.com/manual/basics/</loc>
+         <loc>https://harukumo.github.io/Horizon-Documentation/manual/basics/</loc>
          <lastmod>2023-06-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
