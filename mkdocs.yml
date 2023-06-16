@@ -6,4 +6,4 @@ nav:
     - Home: index.md
     - About: about.md
     - Roadmap: roadmap.md
-    - Manual: basics.md
+    - Manual: manual/basics.md
