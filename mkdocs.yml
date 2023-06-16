@@ -1,9 +1,0 @@
-site_name: Horizon Documentation
-site_url: https://docs.horizon.com/
-theme: readthedocs
-
-nav:
-    - Home: index.md
-    - About: about.md
-    - Roadmap: roadmap.md
-    - Manual: manual/basics.md
